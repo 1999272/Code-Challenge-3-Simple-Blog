@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Blog Manager</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🍽️ Food Blog Manager</h1>
+            <p>Manage your delicious food content</p>
+        </header>
+        
+        <div class="content">
+            <div class="post-list-section">
+                <h2>Recent Food Posts</h2>
+                <div id="post-list" class="loading">Loading food posts...</div>
+            </div>
+            
+            <div class="post-detail-section">
+                <h2>Post Details</h2>
+                <div id="post-detail">
+                    <p>Select a food post to view details</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-section">
+            <h3>Create New Food Post</h3>
+            <form id="new-post-form">
+                <div class="form-group">
+                    <label for="title">Dish Name:</label>
+                    <input type="text" id="title" name="title" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="content">Recipe/Description:</label>
+                    <textarea id="content" name="content" required></textarea>
+                </div>
+                
+                <div class="form-group">
+                    <label for="author">Author/Chef:</label>
+                    <input type="text" id="author" name="author" required>
+                </div>
+                
+                <button type="submit">Create Post</button>
+            </form>
+        </div>
+    </div>
+    
+    <script src="src/index.js"></script>
+</body>
+</html>

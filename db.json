@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Classic Margherita Pizza",
+      "content": "This simple yet delicious pizza features a thin crust topped with San Marzano tomato sauce, fresh mozzarella, basil, and a drizzle of olive oil. Bake at 475°F (245°C) for 10-12 minutes until the crust is golden and cheese is bubbly.",
+      "author": "Chef Marco",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&h=400&q=80",
+      "category": "Italian"
+    },
+    {
+      "id": 2,
+      "title": "Authentic Beef Tacos",
+      "content": "Season ground beef with cumin, chili powder, garlic powder, and onion powder. Cook until browned, then serve in warm corn tortillas with diced onions, fresh cilantro, and a squeeze of lime. Top with your favorite salsa.",
+      "author": "Maria Sanchez",
+      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=600&h=400&q=80",
+      "category": "Mexican"
+    },
+    {
+      "id": 3,
+      "title": "Creamy Mushroom Risotto",
+      "content": "Sauté arborio rice with shallots and garlic. Gradually add warm vegetable broth, stirring constantly. When rice is al dente, stir in sautéed wild mushrooms, Parmesan cheese, and a knob of butter. Finish with fresh parsley.",
+      "author": "Giovanni Rossi",
+      "image": "https://images.unsplash.com/photo-1603105037880-8802c5effd9f?auto=format&fit=crop&w=600&h=400&q=80",
+      "category": "Vegetarian"
+    }
+  ]
+}
