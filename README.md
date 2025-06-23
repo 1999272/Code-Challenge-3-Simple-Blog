@@ -51,8 +51,8 @@ food-blog-manager/
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (ES6)
-- json-server (mock API backend)
+- JavaScript 
+- json-server 
 
 ## Support and Contact
 If you have any questions or need assistance, please contact:
