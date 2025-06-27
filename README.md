@@ -57,8 +57,11 @@ food-blog-manager/
 ## Support and Contact
 If you have any questions or need assistance, please contact:
 
-Email: foodblog@example.com  
+Email: mark.wainaina@student.moringaschool.com 
 GitHub: [@1999272](mark.wainaina@student.moringaschool.com)
+
+## Author
+Mark Kamau
 
 ## License
 This project is licensed under the MIT License.
