@@ -1,5 +1,5 @@
 // Base URL for the API
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://code-challenge-3-json-server.onrender.com';
 
 // Main function that runs when the DOM is loaded
 function main() {
